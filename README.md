@@ -203,4 +203,4 @@ This repository serves as the official landing page for Aces High II. The softwa
 **Get the most recent version of Aces High II today!**
 
 ---
-**Last updated:** 2026-11-07 22:30:31 UTC
+**Last updated:** 2026-11-08 02:05:55 UTC
